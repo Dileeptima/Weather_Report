@@ -25,39 +25,5 @@ Eight key [datasets](./source_data/csv/) for this case study:
 ## Entity Relationship Diagram
 ![alt text](./images/ERD.PNG)
 
-:exclamation: If you find this repository helpful, please consider giving it a :star:. Thanks! :exclamation:
 
-## About Me
-### Education
-- **National Institute of Technology, Srinagar, Jammu and Kashmir**  
-  *Bachelor of Technology in Electronics and Communication Engineering (Aug 2021 – Jun 2025)*
-- **Sasi Junior College, Velivennu, Andhra Pradesh**  
-  *Intermediate*
-- **Sri Chaitanya High School, Tadepalligudem, Andhra Pradesh**  
-  *10th Standard*
-
-### Experience
-- **Research Intern, National Institute of Technology, Warangal** (Dec 2023 – Jan 2024, Telangana)
-  - Gained knowledge of image fusion techniques.
-  - Developed strong analytical and problem-solving skills through various research activities and discussions.
-  - Developed and implemented Python scripts for image preprocessing, fusion, and analysis.
-
-### Projects
-- **Medical Diagnostic Image Fusion Based on SOFMNN | Python, Pandas**
-  - Introduced a novel fusion technique using wavelet transforms and neural networks for medical imaging.
-  - Effectively integrates MRI and SPECT data, preserving structural and functional details.
-  - Enhances the accuracy of detecting pathological areas for better clinical diagnosis.
-- **Voice Selfie App**
-  - **Domain**: Web Application — **Programming Languages**: JavaScript
-  - Built an application that detects the user's voice and takes a selfie on command.
-  - Used JavaScript libraries to access the mic and camera of the system.
-  - Designed an interactive UI using HTML, CSS3, and JavaScript.
-
-### Technical Skills
-- **Languages**: JavaScript, Python, C++, HTML, CSS, SQL
-- **Developer Tools**: Git, Visual Studio Code, PyCharm
-- **Core**: Analog and Digital Electronics, Communication Systems
-
-### Co-Curricular Activities
-- Most Valuable Player in the school Volleyball tournament (2017-18)
 
